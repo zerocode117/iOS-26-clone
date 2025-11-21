@@ -5,9 +5,9 @@
     <img src="https://img.shields.io/badge/Sponsor-❤-ff69b4" />
 </a>
 
-A highly accurate recreation of iOS and its built-in apps, built entirely with SwiftUI and generated using Google's **Gemini 3.0 Pro**.
+A refined, high-fidelity replica of core iOS system apps, built end‑to‑end in pure SwiftUI. All interfaces and components were AI‑generated (Google Gemini 3.0 Pro) then polished manually for pixel‑level accuracy and clean architecture.
 
-This project serves as a playground to test the limits of AI code generation and modern SwiftUI capabilities by rebuilding native Apple apps with pixel-perfect accuracy.
+This sandbox showcases how modern SwiftUI + AI can rapidly prototype authentic iOS experiences—layouts, gestures, transitions, theming—while remaining readable and extensible.
 
 ## Features
 
@@ -29,27 +29,33 @@ The following system applications have been recreated:
 
 ## Requirements
 
-*   Xcode 26 or later
-*   **iOS 26.0+**
+*   Xcode 26 or newer
+*   iOS 26.0+ (simulator or device)
 
 ## Installation
 
-1.  Clone the repository:
-2.  Open the project in Xcode:
-3.  Select your target simulator or device.
-4.  Press **Run** (`CMD + R`).
+1.  Clone the repository.
+2.  Open the project in Xcode.
+3.  Pick an iOS 26 simulator or a device.
+4.  Run (`CMD + R`).
 
-📝 Press the home button on the top left or the volume button to go back to the home screen.
+📝 Use the top‑left home control or a volume press to return to the launcher screen.
 
 ## Contributing
 
-Contributions are welcome! If you would like to recreate other system apps (e.g., Maps, Stocks, Voice Memos) or improve existing ones, please feel free to submit a Pull Request.
+Want to add Maps, Stocks, Voice Memos, Reminders, Files, Podcasts, etc.? Open a PR with:
+
+*   New module folder
+*   Brief summary of approach
+*   Optional screenshots
+
+Bug fixes, UI polish, accessibility, performance tweaks all welcome.
 
 ## Credits & Disclaimers
 
-*   **Code Generation:** All SwiftUI code in this project was generated using **AI**.
-*   **Assets:** The application icons used in this project were sourced from [Sketch Resources](https://www.sketch.com/s/f63aa308-1f82-498c-8019-530f3b846db9/symbols?g=App%2520Icons%252FArtwork%252FDefault).
-*   This project is for demonstration purposes only and is not affiliated with Apple Inc.
+*   **AI Code Generation:** SwiftUI source originated from AI prompts, then curated.
+*   **Icons / Assets:** From Sketch Resources (App Icons / Artwork / Default).
+*   Educational, open-source clone—no affiliation with Apple Inc. Trademarks belong to their owners.
 
 <p align="center">
   Made with ❤️ by Anukar using AI.
