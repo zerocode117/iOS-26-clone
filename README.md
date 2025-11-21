@@ -1,4 +1,4 @@
-# iOS 26 Clone 🍎
+# iOS 26 Clone
 ![Swift](https://img.shields.io/badge/Swift-6-orange?logo=swift)
 ![iOS](https://img.shields.io/badge/iOS-26%2B-blue?logo=apple)
 <a href="https://github.com/sponsors/AnukarOP">
